@@ -2,7 +2,7 @@ from riotwatcher import TftWatcher, ApiError
 import pandas as pd
 
 # global variables
-api_key = "RGAPI-a328498c-aad4-40ff-85e5-b9d8726ae1e4"
+api_key = ""
 watcher = TftWatcher(api_key)
 region = "na1"
 match_region = "americas"
